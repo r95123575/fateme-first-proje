@@ -1,0 +1,15 @@
+E:\Project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Project\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Project\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Eitaa Desktop\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
